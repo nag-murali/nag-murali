@@ -2,7 +2,9 @@
 
 This Nagendra Muralidhar Pulla
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3850691-Web-Development-Illustration&psig=AOvVaw1CYTke0YzRBe0yLcLe_IEj&ust=1644343805948000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj24ZaY7vUCFQAAAAAdAAAAABAD)
+![]https://github.com/nag-murali/nag-murali/blob/main/images/web-development.gif)
+
+<img src="/images/web_development.gif" />
 
 <!--
 **nag-murali/nag-murali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

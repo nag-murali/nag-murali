@@ -23,12 +23,7 @@ This Nagendra Muralidhar Pulla
 </p>
 </div>
 
-<h3 align="center">How to reach me: 📫</h3>
-<div align="center" display="flex">
-  <a target="_blank" href="https://www.linkedin.com/in/nagendra-muralidhar-pulla-0a836a21b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank" href="mailto: nagmurali96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a target="_blank" href="https://github.com/nag-murali"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+
 
 ## Contributions
 
@@ -48,6 +43,12 @@ This Nagendra Muralidhar Pulla
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nag-murali&layout=compact&theme=vue&hide_border=true" />
 
+<h3 align="center">How to reach me: 📫</h3>
+<div align="center" display="flex">
+  <a target="_blank" href="https://www.linkedin.com/in/nagendra-muralidhar-pulla-0a836a21b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" href="mailto: nagmurali96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="https://github.com/nag-murali"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
  
 ![Visitor Count](https://profile-counter.glitch.me/{nag-murali}/count.svg)

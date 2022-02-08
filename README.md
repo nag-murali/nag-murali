@@ -29,6 +29,26 @@ This Nagendra Muralidhar Pulla
   <a target="_blank" href="mailto: nagmurali96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a target="_blank" href="https://github.com/nag-murali"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
+
+## Contributions
+
+<!--  <p align="center">
+    <img alt="Aleem Alam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chamarthivamsidev&show_icons=true&count_private=true&theme=black&hide_border=true&bg_color=0D1117" />
+ </p> -->
+    
+<p align="center">
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nag-murali&show_icons=true) 
+  
+ </p>
+ 
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nag-murali)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nag-murali)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nag-murali&layout=compact&theme=vue&hide_border=true" />
+
+
  
 ![Visitor Count](https://profile-counter.glitch.me/{nag-murali}/count.svg)
 <!--

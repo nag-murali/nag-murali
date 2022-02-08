@@ -50,8 +50,11 @@ This Nagendra Muralidhar Pulla
   <a target="_blank" href="https://github.com/nag-murali"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Akbar660">
  
-![Visitor Count](https://profile-counter.glitch.me/{nag-murali}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{nag-murali}/count.svg) -->
 <!--
 **nag-murali/nag-murali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

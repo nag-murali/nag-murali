@@ -1,11 +1,16 @@
 ### Hi there 👋
 
 This Nagendra Muralidhar Pulla
+<!-- 
+![](https://github.com/nag-murali/nag-murali/blob/main/images/web-development.gif) -->
 
-![](https://github.com/nag-murali/nag-murali/blob/main/images/web-development.gif)
+<div diaplay = "flex" > <div> An enthusiastic Full stack web developer  specialized in MERN stack. Always curious to learn new things.  Awaiting to work in an organization which helps me  improve my expertise in technical skills and grow alongside the organization. </div>
+  
+ 
+  <div>
 
-<!-- <img src="/images/web_development.gif" /> -->
-
+ <br>
+ <img  height= 400px  src="https://github.com/nag-murali/nag-murali/blob/main/images/web-development.gif" />
 
 <h2 align="center">Languages and tools: 🧰</h2>
 

@@ -1,9 +1,9 @@
-### Hi there 👋, This Nagendra Muralidhar Pulla
+## Hi there 👋, This Nagendra Muralidhar Pulla
 
-<!-- 
-![](https://github.com/nag-murali/nag-murali/blob/main/images/web-development.gif) -->
 
- #### An enthusiastic Full stack web developer  specialized in MERN stack. Always curious to learn new things.  Awaiting to work in an organization which helps me  improve my expertise in technical skills and grow alongside the organization. 
+<h2 align="center">About me: 👨🏽‍💻</h2>
+
+ <p align= "centre"> An enthusiastic Full stack web developer  specialized in MERN stack. Always curious to learn new things.  Awaiting to work in an organization which helps me  improve my expertise in technical skills and grow alongside the organization. </p>
   
  
   <div>
@@ -42,9 +42,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nag-murali&show_icons=true) 
   
  </div>
+ 
+ <div align="center">
    
  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nag-murali)
-    
+     </div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nag-murali)
       

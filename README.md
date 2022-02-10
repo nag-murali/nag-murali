@@ -3,13 +3,15 @@
 <!-- 
 ![](https://github.com/nag-murali/nag-murali/blob/main/images/web-development.gif) -->
 
-<div diaplay = "flex" > <div> An enthusiastic Full stack web developer  specialized in MERN stack. Always curious to learn new things.  Awaiting to work in an organization which helps me  improve my expertise in technical skills and grow alongside the organization. </div>
+ #### An enthusiastic Full stack web developer  specialized in MERN stack. Always curious to learn new things.  Awaiting to work in an organization which helps me  improve my expertise in technical skills and grow alongside the organization. 
   
  
   <div>
 
  <br>
+    <div align="center">
  <img  height= 400px  src="https://github.com/nag-murali/nag-murali/blob/main/images/web-development.gif" />
+    </div>
 
 <h2 align="center">Languages and tools: 🧰</h2>
 
@@ -33,21 +35,22 @@
 
 ## Contributions
 
-<!--  <p align="center">
-    <img alt="Aleem Alam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chamarthivamsidev&show_icons=true&count_private=true&theme=black&hide_border=true&bg_color=0D1117" />
- </p> -->
     
-<p align="center">
+
+   <div align="center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nag-murali&show_icons=true) 
   
- </p>
- 
+ </div>
+   
  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nag-murali)
+    
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nag-murali)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nag-murali&layout=compact&theme=vue&hide_border=true" />
+      
+ <div align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nag-murali&layout=compact&theme=vue&hide_border=true" />
+   </div>
 
 <h3 align="center">How to reach me: 📫</h3>
 <div align="center" display="flex">

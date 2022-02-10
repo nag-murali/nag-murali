@@ -1,9 +1,7 @@
 ## Hi there 👋, This Nagendra Muralidhar Pulla
 
 
-<h2 align="center">About me: 👨🏽‍💻</h2>
 
- <p align= "centre"> An enthusiastic Full stack web developer  specialized in MERN stack. Always curious to learn new things.  Awaiting to work in an organization which helps me  improve my expertise in technical skills and grow alongside the organization. </p>
   
  
   <div>
@@ -12,6 +10,10 @@
     <div align="center">
  <img  height= 400px  src="https://github.com/nag-murali/nag-murali/blob/main/images/web-development.gif" />
     </div>
+ 
+ <h2 align="center">About me: 👨🏽‍💻</h2>
+
+ <p align= "center">I am an enthusiastic Full stack web developer  specialized in MERN stack and always curious to learn new things.  I’m currently learning  React. Apart from coding time I love to watch movies & web series, and play  games like football, kho - kho. Looking forward to working in an organization which helps me  improve my expertise in technical skills and grow alongside the organization. </p>
 
 <h2 align="center">Languages and tools: 🧰</h2>
 
@@ -33,7 +35,7 @@
 
 
 
-## Contributions
+<h2 align= "center"> Contributions: </h2>
 
     
 
@@ -61,22 +63,11 @@
   <a target="_blank" href="https://github.com/nag-murali"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
-## ❤ Views and Followers
+ <h2 align= "center"> ❤ Views and Followers </h2>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Akbar660">
+ <div align="center">
+    <img  src="https://komarev.com/ghpvc/?username=nag-murali">
+   </div>
+
  
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{nag-murali}/count.svg) -->
-<!--
-**nag-murali/nag-murali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

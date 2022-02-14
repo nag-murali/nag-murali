@@ -1,4 +1,6 @@
-## Hi there 👋, This Nagendra Muralidhar Pulla
+
+
+<h2 align="center"> Hi there 👋, This Nagendra Muralidhar Pulla <h2>
 
 
 

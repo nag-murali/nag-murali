@@ -65,7 +65,7 @@
   <a target="_blank" href="https://github.com/nag-murali"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
- <h2 align= "center"> ❤ Views and Followers </h2>
+ <h3 align= "center"> ❤ Views and Followers </h3>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
  <div align="center">
     <img  src="https://komarev.com/ghpvc/?username=nag-murali">

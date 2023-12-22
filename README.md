@@ -43,7 +43,7 @@
 
    <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nag-murali&show_icons=true) 
+ <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=nag-murali&show_icons=true) --> 
 ![](https://github-readme-stats.vercel.app/api?username=nag-murali&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
   
  </div>

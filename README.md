@@ -51,8 +51,6 @@
    
  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nag-murali)
      </div>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nag-murali)
       
  <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nag-murali&layout=compact&theme=vue&hide_border=true" />

@@ -24,6 +24,14 @@
 - Built custom budget sliders and enhanced onboarding flows with Facebook and TikTok integrations.
 - Modernized stack with Next.js, Material-UI, and React Query for improved performance.
 
+### BMO for Women
+A Bank of Montreal initiative supporting women entrepreneurs with capital, resources, and community.
+
+- Developed accessible, reusable React components with Emotion, improved keyboard navigation, and ensured reliability with Jest tests.
+- Optimized image handling using Next.js and enhanced UI development using Storybook.
+- Maintained type safety and clean code with TypeScript for scalable, maintainable solutions.
+
+
 ## 🧰 Languages & Tools
 
 **Frontend:**  

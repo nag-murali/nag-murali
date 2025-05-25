@@ -73,3 +73,67 @@
  
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{nag-murali}/count.svg) -->
 
+# Hi there 👋, I'm Nagendra Muralidhar Pulla
+
+## 👨🏽‍💻 About Me
+- 👨‍💻 Full-Stack Developer specialized in MERN stack, with a strong focus on React and modern frontend technologies  
+- 🚀 Built scalable, maintainable, and high-performance web applications from scratch  
+- 🌍 Skilled in React, Next.js, TypeScript, JavaScript, Node.js, Express.js, MongoDB, and Redis  
+- 📊 Passionate about clean code, modular architecture, and delivering seamless user experiences  
+- 🔍 Committed to continuous learning, performance optimization, and collaborating effectively with teams  
+- ⚽ Outside coding, enjoy movies, web series, football, and kho-kho  
+
+## 🚀 Projects
+
+### Weave – GALE CRM Automation Platform
+- Developed scalable frontend from scratch using React, Vite, Zustand, Ant Design, and Material-UI.
+- Built reusable multi-step forms, dynamic dashboards, and integrated error tracking.
+- Optimized performance with code splitting and lazy loading.
+
+### Navigator
+- Created reusable React components and an infinite-scroll table for large datasets.
+- Built custom budget sliders and enhanced onboarding flows with Facebook and TikTok integrations.
+- Modernized stack with Next.js, Material-UI, and React Query for improved performance.
+
+## 🧰 Languages & Tools
+
+**Frontend:**  
+- React  
+- Next.js  
+- Zustand  
+- Redux  
+- Ant Design  
+- Material-UI  
+- React Router  
+
+**Languages:**  
+- HTML5  
+- CSS3  
+- JavaScript  
+- TypeScript  
+
+**Backend:**  
+- Node.js  
+- Express.js  
+
+**Databases:**  
+- MongoDB  
+- Redis  
+
+**Build & Dev Tools:**  
+- Vite  
+- ESLint  
+- Prettier  
+- Husky  
+- Axios  
+- React Query  
+
+## 📫 How to Reach Me
+[LinkedIn](https://www.linkedin.com/in/nagendra-muralidhar-pulla-0a836a21b/) | nagmurali96@gmail.com | [GitHub](https://github.com/nag-murali)
+
+## 📈 GitHub Stats
+![Nagendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nag-murali&theme=github_dark_dimmed&show_icons=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nag-murali)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nag-murali&layout=compact&theme=vue)
+
+

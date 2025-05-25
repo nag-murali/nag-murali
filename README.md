@@ -74,17 +74,21 @@
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
 </p>
-<h3 align="center">📫 How to reach me: </h3>
+
+## 📈 GitHub Stats
+ <div align="center">
+     
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nag-murali)
+</div>
+ <div align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nag-murali&layout=compact&theme=vue&hide_border=true" />
+</div>
+
+<h3 align="center" >📫 How to reach me: </h3>
 <div align="center" display="flex">
   <a target="_blank" href="https://www.linkedin.com/in/nagendra-muralidhar-pulla-0a836a21b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a target="_blank" href="mailto: nagmurali96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a target="_blank" href="https://github.com/nag-murali"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
-
-
-## 📈 GitHub Stats
-![Nagendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nag-murali&theme=github_dark_dimmed&show_icons=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nag-murali)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nag-murali&layout=compact&theme=vue)
 
 

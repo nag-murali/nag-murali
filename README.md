@@ -6,7 +6,7 @@
 <ul>
   <li>👨‍💻 <strong>Full-Stack Developer</strong> specialized in MERN stack, with a strong focus on React and modern frontend technologies</li>
   <li>🚀 Built <strong>scalable</strong>, <strong>maintainable</strong>, and <strong>high-performance</strong> web applications from scratch</li>
-  <li>🌍 Skilled in <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>MongoDB</strong>, and <strong>Redis</strong></li>
+  <li>🌍 Skilled in <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>MongoDB</strong>
   <li>📊 Passionate about <strong>clean code</strong>, <strong>modular architecture</strong>, and delivering <strong>seamless user experiences</strong></li>
   <li>🔍 Committed to <strong>continuous learning</strong>, <strong>performance optimization</strong>, and collaborating effectively with teams</li>
   <li>⚽ Outside coding, enjoy <strong>movies</strong>, <strong>web series</strong>, <strong>football</strong>, and <strong>kho-kho</strong></li>

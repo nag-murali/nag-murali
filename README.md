@@ -15,7 +15,7 @@
 ## 🚀 Projects
 
 ### Weave – GALE CRM Automation Platform
-- Developed scalable frontend from scratch using React, Vite, Zustand, Ant Design, and Material-UI.
+- Developed scalable frontend from scratch using React, Vite, Zustand, Ant Design.
 - Built reusable multi-step forms, dynamic dashboards, and integrated error tracking.
 - Optimized performance with code splitting and lazy loading.
 

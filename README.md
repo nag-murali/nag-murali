@@ -86,8 +86,9 @@ A Bank of Montreal initiative supporting women entrepreneurs with capital, resou
 ## 📈 GitHub Stats
  <div align="center">
      
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nag-murali)
+ ![GitHub streak stats](https://streak-stats.demolab.com?user=nag-murali)
 </div>
+
  <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nag-murali&layout=compact&theme=vue&hide_border=true" />
 </div>
